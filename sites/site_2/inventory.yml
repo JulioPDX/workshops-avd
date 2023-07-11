@@ -4,7 +4,7 @@ SITE2:
     CVP:
       hosts:
         cvp:
-          ansible_host: workshops-1-a7ce9526-eos.topo.testdrive.arista.com
+          ansible_host: test-1-8ee54c78-eos.topo.testdrive-dev.arista.com
     SITE2_FABRIC:
       children:
         SITE2_SPINES:
